@@ -1,4 +1,5 @@
-# dns-blocklists
+Kalcho Iliev ivanov
+Individual • Also used with Google Play Apps, Google One • Bulgaria • ID: 5383-5541-9678# dns-blocklists
 
 This repository contains the Ansible playbook that we use to generate DNS based blocking files for our Encrypted DNS, and VPN server __(also known as VPN relay)__ based DNS blocking.
 
